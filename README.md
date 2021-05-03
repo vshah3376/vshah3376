@@ -3,7 +3,7 @@
 I am a Computer Science Undergrad currently in Third year.
 - 🔭 I’m currently working on Flutter and ReactJS
 - 🌱 I’m currently learning Competitive Programming and exploring Machine Learning
-- ⚡ Available for internship opportunities.
+- ⚡ Available for Internship opportunities.
 
 <div align="center"><h3>Connect with me:</h3></div>
 
@@ -16,6 +16,6 @@ I am a Computer Science Undergrad currently in Third year.
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vshah3376&hide=prs&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vshah3376&hide=prs&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vshah3376&theme=dark" />
 </p>
